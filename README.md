@@ -13,7 +13,7 @@ please see directories for more specific resources.
 
 ### Tuesday (Aug 25)
 * 9.30-12.30 lecture & hands on\
-[Kazuhiro Terao: intro to deep learning](Lecture_Day2_Terao)
+[Kazuhiro Terao: intro to deep learning, some simple architectures](Lecture_Day2_Terao)
 * 14- hack
 
 ### Wednesday (Aug 26)
@@ -23,7 +23,7 @@ please see directories for more specific resources.
 
 ### Thursday (Aug 27)
 * 9.30-12.30 lecture & hands on\
-[Vera Maiboroda: symmetries & specialized architectures](Lecture_Day4_Maiboroda)
+[Vera Maiboroda: symmetries & specialized architectures, transformers](Lecture_Day4_Maiboroda)
 * 14- hack
 
 ### Friday (Aug 28)
