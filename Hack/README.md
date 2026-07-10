@@ -65,7 +65,7 @@ Data are: SDSS spectrum dataset in [Google drive](https://drive.google.com/drive
 
 Note: I recommend using low-dimensional data (e.g., 1D) and reducing the size of data (e.g., by lowering the resolution or clipping the data) whenever possible, given the limited computational cost and time.
 
-Contact person: Leander Thiele
+Contact person: Kazuhiro Terao
 
 ## (5) Transfer learning 
 
@@ -80,7 +80,7 @@ I have not tested if the pre-trained PyTorch models for images run smoothly in G
 
 Note: if a large amount of data is used in transfer learning, the differences between transfer learning and training from scratch may become negligible. To properly assess the benefits of transfer learning, it may be helpful to limit the size of the dataset used for transfer learning. See, e.g., Fig. 5 of [this study](https://arxiv.org/abs/2310.02994) for similar investigation.
 
-Contact person: Adrian Bayer
+Contact person: Daniela Breitman
 
 ## (6) Weather classifier
 
@@ -90,9 +90,9 @@ Develop a CNN classifier of the sky condition using images obtained with our sky
 
 [Data](https://drive.google.com/drive/folders/1KJs-OVU-ZSyiTIHtZusgFAktwFtv97S9?usp=share_link)
 
-There are thousands of images in the above link (google drive)~~, while I have ten thousands of images in my USB flash drive. If you have try to use them, please let me know~~. 
+There are thousands of images in the above link (google drive).
 
-Contact person: Sungwook Hong
+Contact person: Ting-Wen Lan
 
 ## (7) Variable selection
 
@@ -102,7 +102,7 @@ Find a set of variable to construct the best model of the magnitude at maximum o
 
 [Data](https://drive.google.com/drive/folders/1kz94LOxBTEpKeNBrG56K8rs9sp2u9Y8M?usp=sharing)
 
-Contact person: Adrian Bayer
+Contact person: Ting-Wen Lan
 
 ## (8) Using MLs to infer the fundamental parameters of the Universe
 
@@ -119,7 +119,7 @@ simulations and test on SIMBA, are the inferred cosmological parameters correct?
 
 Or, can you determine which simulation was used to make a given image?
 
-contact person: Leander Thiele, Sungwook E. Hong
+contact person: Leander Thiele
 
 ## (9) A generative model for galaxy spectra
 
@@ -159,7 +159,7 @@ That is, can we generate a mock galaxy image from a given morphology?
 
 Moreover, what other parameters can we introduce for our mock galaxy image generation, such as inclination angle, major/minor radius, and RGB channel brightness?
 
-contact person: Sungwook E. Hong
+contact person: Daniela Breitman
 
 ## (11) Automatic detection of defects on detector hardware
 
@@ -177,4 +177,4 @@ How well do different ML methods perform at cosmological inference? Are linear m
 
 The data with tutorials is described [here](https://cosmobench.streamlit.app/). It consists of simulated of galaxy, halos, and more! This is a very open project where you can try the methods in the paper, or new methods ad architectures, to produce better predicitons of cosmological parameters from the data, and also the scaling with number of simulations. 
 
-contact person: Adrian Bayer
+contact person: Kazuhiro Terao
