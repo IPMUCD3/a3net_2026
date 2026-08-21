@@ -9,7 +9,8 @@ please see directories for more specific resources.
 * 9.30-12.30 lecture & hands on\
 [Tomomi Sunayama / Ting-Wen Lan: statistical modeling + intro to ML](Lecture_Day1_SunayamaLan)
 * 14-15 [fireslides](https://docs.google.com/presentation/d/19457ewxA1woixJutGzK81xM9ezYqRFds85RwSudcmkI/edit?usp=sharing) (each participant 1min to present themselves)
-* 15-17 [hack](Hack) introduction & group forming
+* 15.30-17 [hack](Hack) introduction & group forming
+* 18-19.30 reception
 
 ### Tuesday (Aug 25)
 * 9.30-12.30 lecture & hands on\
@@ -17,9 +18,10 @@ please see directories for more specific resources.
 * 14- hack
 
 ### Wednesday (Aug 26)
-* 9-12 lecture & hands on\
+* 9.30-12.30 lecture & hands on\
 [Daniela Breitman: generative models](Lecture_Day3_Breitman)
-* 12- quick lunch, excursion (TBD) & dinner
+* 14- free afternoon
+* 18-19.30 dinner
 
 ### Thursday (Aug 27)
 * 9.30-12.30 lecture & hands on\
