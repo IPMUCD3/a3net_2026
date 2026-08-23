@@ -85,12 +85,17 @@ Contact person: Daniela Breitman
 ## (6) Weather classifier
 
 Develop a CNN classifier of the sky condition using images obtained with our sky monitor camera.
+Possible extension
 
-[Background and goal](https://drive.google.com/file/d/1_IEtQnvjdHcb9rvKcwbl7F1B4z4yU4i8/view?usp=sharing)
+Extensions to this project (which is fairly simple) could include:
+- unsupervised discovery of clear and cloudy classes
+- interpretation of the trained network (how does it come to its classification)
 
 [Data](https://drive.google.com/drive/folders/1KJs-OVU-ZSyiTIHtZusgFAktwFtv97S9?usp=share_link)
 
 There are thousands of images in the above link (google drive).
+These photos are from a small auxiliary camera at an astronomical observatory and the idea is to automate parts of the observatory operations.
+
 
 Contact person: Ting-Wen Lan
 
