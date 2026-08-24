@@ -7,7 +7,7 @@ Nch = 4
 
 char = lambda i: chr(65+i)
 
-rng = np.random.default_rng(137)
+rng = np.random.default_rng(9)
 
 for gr in range(Ngr) :
     choice = rng.choice(1+np.arange(Npr), size=Nch, replace=False)

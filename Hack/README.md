@@ -182,4 +182,6 @@ How well do different ML methods perform at cosmological inference? Are linear m
 
 The data with tutorials is described [here](https://cosmobench.streamlit.app/). It consists of simulated of galaxy, halos, and more! This is a very open project where you can try the methods in the paper, or new methods ad architectures, to produce better predicitons of cosmological parameters from the data, and also the scaling with number of simulations. 
 
+[Repository](https://github.com/nhuang37/cosmology_benchmark.git) with some benchmark models
+
 contact person: Kazuhiro Terao
