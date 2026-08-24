@@ -5,7 +5,7 @@ please see directories for more specific resources.
 ## Taipei 8/24-8/28 2026
 
 ### Monday (Aug 24)
-* 9-9.30 Registration
+* 9-9.30 Registration and [Introduction](https://docs.google.com/presentation/d/1PeYP5cAOTp8Er9P2VkXGr7X19z6me8evJ6BCdisRkaU/edit?usp=sharing)
 * 9.30-12.30 lecture & hands on\
 [Tomomi Sunayama / Ting-Wen Lan: statistical modeling + intro to ML](Lecture_Day1_SunayamaLan)
 * 14-15 [fireslides](https://docs.google.com/presentation/d/19457ewxA1woixJutGzK81xM9ezYqRFds85RwSudcmkI/edit?usp=sharing) (each participant 1min to present themselves)
