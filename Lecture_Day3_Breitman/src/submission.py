@@ -90,8 +90,7 @@ def submission_from_point_model(
 ) -> pd.DataFrame:
     """Wrap point predictions in a one-component Gaussian mixture.
 
-    The Gaussian width is estimated from validation residuals. Corrupted
-    validation rows will therefore worsen the baseline unless students clean them.
+    The Gaussian width is estimated from the RMS validation residual.
     """
     device = _get_device(model, device)
     model.to(device)
@@ -104,7 +103,7 @@ def submission_from_point_model(
     if not len(residual):
         raise ValueError("No finite validation residuals available")
 
-    sigma = max(float(np.std(residual, ddof=1)), min_sigma)
+    sigma = max(float(np.sqrt(np.mean(residual**2))),min_sigma)
     print(f"validation residual sigma = {sigma:.6f}")
 
     test_prediction, _dummy_target, source_ids = _point_predictions(

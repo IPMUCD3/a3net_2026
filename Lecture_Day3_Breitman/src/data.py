@@ -29,7 +29,7 @@ def load_data(
     test_columns = [
         column
         for column in feature_columns
-        if column != "z_spec"
+        if column not in {"z_spec", "z_spec_err"}
     ]
 
     test = pd.read_csv(
@@ -87,7 +87,7 @@ def print_quality_report(df):
         )
     )
 
-    return report
+    return None
 
 
 def create_data_loader(
