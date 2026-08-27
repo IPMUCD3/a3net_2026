@@ -30,5 +30,7 @@ please see directories for more specific resources.
 
 ### Friday (Aug 28)
 * 9.30-10 hack presentations final discussions
-* 10-12.30 hack presentations
-* 14-16 hack presentations
+* 10-11 hack presentations
+* 11.30-12.30 hack presentations
+* 14-15 hack presentations
+* 15-15.30 closing
